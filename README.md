@@ -11,7 +11,6 @@ In this lab we created vitual machines and connected to them using remote deskto
 
 - Microsoft Azure 
 - Remote Desktop
-- Command line
 
 <h2>Operating Systems Used </h2>
 
