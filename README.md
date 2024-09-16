@@ -25,5 +25,3 @@ In this lab we created vitual machines and connected to them using remote deskto
 
 
   
-<h2>Deployment and Configuration Steps</h2>
-
