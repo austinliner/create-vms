@@ -22,6 +22,8 @@ In this lab we created vitual machines and connected to them using remote deskto
 - Create a resource group to organize your resources.
 - Create a virtual machine and network.
 - Using the IP address created, connect to VM using remote desktop
-  
 
+
+  
+<h2>Deployment and Configuration Steps</h2>
 
